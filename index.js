@@ -12,9 +12,6 @@ app.get('/', (req, res) => {
     res.send('Server is Running...');
 });
 
-app.get('/courses', (req, res) => {
-    res.json(courses);
-});
 
 app.get('/categories', (req, res) => {
     res.json(categories);
@@ -24,6 +21,16 @@ app.get('/categories/:id', (req, res) => {
     const id = req.params.id;
     const eachCategory = courses.filter((course) => course.category_id == id);
     res.send(eachCategory);
+});
+
+app.get("/courses", (req, res) => {
+  res.json(courses);
+});
+
+app.get("/courses/:id", (req, res) => {
+    const id = req.params.id;
+    const eachCourse = courses.find((course) => course.id == id);
+    res.send(eachCourse);
 });
 
 app.listen(port, () => {
