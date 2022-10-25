@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6357577fc74d4186b03291bd",
+    "index": 0,
+    "isActive": true,
+    "balance": "$131.22",
+    "picture": "http://placehold.it/32x32",
+    "name": "Python",
+    "description": "Nulla deserunt fugiat consectetur cupidatat. Amet in dolor irure quis adipisicing. Culpa cupidatat incididunt anim amet dolor amet aliquip eiusmod. Non ea do est elit elit deserunt excepteur laborum eu eu id ad.\r\n",
+    "published_date": "2022-10-25"
+  },
+  {
+    "id": "6357577f396cb7028c5c6ea1",
+    "index": 1,
+    "isActive": true,
+    "balance": "$165.36",
+    "picture": "http://placehold.it/32x32",
+    "name": "Javascript",
+    "description": "Enim mollit tempor excepteur deserunt occaecat incididunt. Ea eu aliqua sunt ut reprehenderit officia excepteur irure minim tempor amet aute. Deserunt reprehenderit aliquip ipsum anim cupidatat irure aliqua. Incididunt veniam do consequat ea voluptate do magna exercitation labore voluptate nisi. Magna do labore sunt ipsum labore id dolor excepteur minim.\r\n",
+    "published_date": "2022-10-25"
+  },
+  {
+    "id": "6357577f47e418d8888b81cd",
+    "index": 2,
+    "isActive": true,
+    "balance": "$131.63",
+    "picture": "http://placehold.it/32x32",
+    "name": "C Programming",
+    "description": "Ex sit pariatur mollit quis minim reprehenderit occaecat in labore esse. Eiusmod aliqua officia do tempor consectetur qui et nostrud excepteur ullamco esse qui nulla. Ullamco laborum anim cupidatat proident amet nostrud aliquip excepteur qui.\r\n",
+    "published_date": "2022-10-25"
+  },
+  {
+    "id": "6357577f45379325b33dfe4e",
+    "index": 3,
+    "isActive": false,
+    "balance": "$137.52",
+    "picture": "http://placehold.it/32x32",
+    "name": "C++ Programming",
+    "description": "Do labore anim aute labore dolor excepteur ullamco. Adipisicing aute fugiat velit mollit. Id culpa laborum ea dolor voluptate proident excepteur.\r\n",
+    "published_date": "2022-10-25"
+  },
+  {
+    "id": "6357577f819b5b5e1bc846a1",
+    "index": 4,
+    "isActive": true,
+    "balance": "$131.56",
+    "picture": "http://placehold.it/32x32",
+    "name": "Java",
+    "description": "Consectetur aliquip in ea cupidatat laboris occaecat do dolor. Anim reprehenderit officia occaecat ut dolor ut proident pariatur duis. Occaecat exercitation enim do non duis. Officia non mollit aliquip et deserunt commodo velit aute fugiat anim. Pariatur irure id velit dolor deserunt. Aliquip sint veniam labore ex velit ea.\r\n",
+    "published_date": "2022-10-25"
+  },
+  {
+    "id": "6357577f3a2975327c40a5e8",
+    "index": 5,
+    "isActive": false,
+    "balance": "$113.34",
+    "picture": "http://placehold.it/32x32",
+    "name": "PHP",
+    "description": "Laboris excepteur magna amet ad excepteur aute. Nulla enim quis deserunt veniam labore non consectetur dolore consequat. Laboris quis aliquip qui veniam exercitation elit ex ullamco cillum pariatur ut labore culpa elit. Est Lorem consectetur duis nulla cillum ipsum duis nostrud nulla aliqua amet. Ipsum mollit aliqua occaecat aliqua deserunt quis voluptate consequat Lorem. Et magna duis fugiat officia. Id proident excepteur aliquip sunt qui occaecat quis aliquip ex.\r\n",
+    "published_date": "2022-10-25"
+  }
+]
