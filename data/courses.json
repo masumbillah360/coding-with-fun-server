@@ -1,7 +1,8 @@
 [
   {
     "id": "6357577fc74d4186b03291bd",
-    "index": 0,
+    "index": 1,
+    "category_id": 1,
     "isActive": true,
     "balance": "$131.22",
     "picture": "http://placehold.it/32x32",
@@ -11,7 +12,8 @@
   },
   {
     "id": "6357577f396cb7028c5c6ea1",
-    "index": 1,
+    "index": 2,
+    "category_id": 2,
     "isActive": true,
     "balance": "$165.36",
     "picture": "http://placehold.it/32x32",
@@ -21,7 +23,8 @@
   },
   {
     "id": "6357577f47e418d8888b81cd",
-    "index": 2,
+    "index": 3,
+    "category_id": 3,
     "isActive": true,
     "balance": "$131.63",
     "picture": "http://placehold.it/32x32",
@@ -31,8 +34,9 @@
   },
   {
     "id": "6357577f45379325b33dfe4e",
-    "index": 3,
-    "isActive": false,
+    "index": 4,
+    "category_id": 4,
+    "isActive": true,
     "balance": "$137.52",
     "picture": "http://placehold.it/32x32",
     "name": "C++ Programming",
@@ -41,7 +45,8 @@
   },
   {
     "id": "6357577f819b5b5e1bc846a1",
-    "index": 4,
+    "index": 5,
+    "category_id": 5,
     "isActive": true,
     "balance": "$131.56",
     "picture": "http://placehold.it/32x32",
@@ -52,7 +57,8 @@
   {
     "id": "6357577f3a2975327c40a5e8",
     "index": 5,
-    "isActive": false,
+    "category_id": 5,
+    "isActive": true,
     "balance": "$113.34",
     "picture": "http://placehold.it/32x32",
     "name": "PHP",
