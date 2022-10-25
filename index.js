@@ -20,6 +20,12 @@ app.get('/categories', (req, res) => {
     res.json(categories);
 });
 
+app.get('/categories/:id', (req, res) => {
+    const id = req.params.id;
+    const eachCategory = courses.filter((course) => course.category_id == id);
+    res.send(eachCategory);
+});
+
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
 });
