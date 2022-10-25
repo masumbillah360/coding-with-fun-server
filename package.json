@@ -1,0 +1,17 @@
+{
+  "name": "fun-coding-server",
+  "version": "1.0.0",
+  "description": "fun-coding server side making by express JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masum billah",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
