@@ -7,7 +7,32 @@
     "balance": "$131.22",
     "picture": "https://i.postimg.cc/fknm5vZh/html.jpg",
     "name": "HTML",
-    "description": "Nulla deserunt fugiat consectetur cupidatat. Amet in dolor irure quis adipisicing. Culpa cupidatat incididunt anim amet dolor amet aliquip eiusmod. Non ea do est elit elit deserunt excepteur laborum eu eu id ad.\r\n",
+    "description": {
+      "description_1" : {
+        "title" : "What is HTML?",
+        "paragraph" : "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content. etc."
+      },
+      "description_2" : {
+        "title": "A Simple HTML Document",
+        "paragraph": "Example Explained. The <!DOCTYPE html> declaration defines that this document is an HTML5 document. The <html> element is the root element of an HTML page. The <head> element contains meta information about the HTML page. The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab). The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.. The <h1> element defines a large heading. The <p> element defines a paragraph",
+        "thumbnail": "https://i.postimg.cc/htZRCGgK/basic-structure-html.png"
+      },
+      "description_3" : {
+        "title": "What is an HTML Element?",
+        "paragraph": "An HTML element is defined by a start tag, some content, and an end tag: <tagname> Content goes here... </tagname> The HTML element is everything from the start tag to the end tag: <h1>My First Heading</h1> , <p>My first paragraph.</p>",
+        "thumbnail": "https://i.postimg.cc/jSSrQ7p8/element-html.png"
+      },
+      "description_4" : {
+        "title" : "Web Browsers", 
+        "paragraph" : "The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly. A browser does not display the HTML tags, but uses them to determine how to display the document",
+        "thumbnail" : "https://www.w3schools.com/html/img_chrome.png"
+      },
+      "description_5" : {
+        "title": "HTML Page Structure",
+        "paragraph": "HTML page structure is defined by the HTML structure of the document. Below is a visualization of an HTML page structure:",
+        "thumbnail": "https://i.postimg.cc/SKXFHpNC/html-structure.png"
+      }
+    },
     "published_date": "2022-10-25"
   },
   {
@@ -18,7 +43,33 @@
     "balance": "$165.36",
     "picture": "https://i.postimg.cc/ydxmNdn2/css.jpg",
     "name": "Css",
-    "description": "Enim mollit tempor excepteur deserunt occaecat incididunt. Ea eu aliqua sunt ut reprehenderit officia excepteur irure minim tempor amet aute. Deserunt reprehenderit aliquip ipsum anim cupidatat irure aliqua. Incididunt veniam do consequat ea voluptate do magna exercitation labore voluptate nisi. Magna do labore sunt ipsum labore id dolor excepteur minim.\r\n",
+    "description": {
+      "description_1": {
+        "title": "What is CSS?",
+        "paragraph": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files"
+      },
+      "description_2": {
+        "title": "CSS Demo - One HTML Page - Multiple Styles!",
+        "paragraph": "Here we will show one HTML page displayed with four different stylesheets. Click on the 'Stylesheet 1', 'Stylesheet 2', 'Stylesheet 3', 'Stylesheet 4' links below to see the different styles:",
+        "thumbnail": "no image here"
+      },
+      "description_3": {
+        "title": "Why Use CSS?",
+        "paragraph": "CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.",
+        "thumbnail"  : "no image"
+
+      },
+      "description_4": {
+        "title": "CSS Syntax",
+        "paragraph": "Example Explained. p is a selector in CSS (it points to the HTML element you want to style: <p>).. color is a property, and red is the property value. text-align is a property, and center is the property value.",
+        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+      },
+      "description_5": {
+        "title": "The CSS element Selector",
+        "paragraph": "CSS selectors are used to 'find' (or select) the HTML elements you want to style. We can divide CSS selectors into five categories:. Simple selectors (select elements based on name, id, class). Combinator selectors (select elements based on a specific relationship between them). Pseudo-class selectors (select elements based on a certain state). Pseudo-elements selectors (select and style a part of an element). Attribute selectors (select elements based on an attribute or attribute value). This page will explain the most basic CSS selectors. The element selector selects HTML elements based on the element name. The CSS id Selector. The id selector uses the id attribute of an HTML element to select a specific element.. The id of an element is unique within a page, so the id selector is used to select one unique element!. To select an element with a specific id, write a hash (#) character, followed by the id of the element. The CSS class Selector. The class selector selects HTML elements with a specific class attribute.. To select elements with a specific class, write a period (.) character, followed by the class name. The CSS Universal Selector. The universal selector (*) selects all HTML elements on the page. ",
+        "thumbnail": "https://studyopedia.com/wp-content/uploads/2017/07/CSS-Selectors.png"
+      }
+    },
     "published_date": "2022-10-25"
   },
   {
@@ -29,7 +80,32 @@
     "balance": "$131.63",
     "picture": "https://i.postimg.cc/2jqtc8mH/botstrap.jpg",
     "name": "Bootstrap",
-    "description": "Ex sit pariatur mollit quis minim reprehenderit occaecat in labore esse. Eiusmod aliqua officia do tempor consectetur qui et nostrud excepteur ullamco esse qui nulla. Ullamco laborum anim cupidatat proident amet nostrud aliquip excepteur qui.\r\n",
+    "description": {
+      "description_1": {
+        "title": "What is Bootstrap?",
+        "paragraph": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs. What is Responsive Web Design?. Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops."
+      },
+      "description_2": {
+        "title": "Why Use Bootstrap?",
+        "paragraph": "Advantages of Bootstrap:. Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap. Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops. Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework. Browser compatibility: Bootstrap 5 is compatible with all modern browsers (Chrome, Firefox, Edge, Safari, and Opera). Note that if you need support for IE11 and down, you must use either BS4 or BS3.",
+        "thumbnail": "https://i.postimg.cc/htZRCGgK/basic-structure-html.png"
+      },
+      "description_3": {
+        "title": "Two Basic Bootstrap 5 Pages",
+        "paragraph": "ou can also use the .container-sm|md|lg|xl classes to determine when the container should be responsive. The max-width of the container will change on different screen sizes/viewports:",
+        "thumbnail": "https://i.postimg.cc/jSSrQ7p8/element-html.png"
+      },
+      "description_4": {
+        "title": "Responsive Containers",
+        "paragraph": "The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly. A browser does not display the HTML tags, but uses them to determine how to display the document",
+        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+      },
+      "description_5": {
+        "title": "Text Colors",
+        "paragraph": "Bootstrap 5 has some contextual classes that can be used to provide 'meaning through colors'. The classes for text colors are: .text-muted, .text-primary, .text-success, .text-info, .text-warning, .text-danger, .text-secondary, .text-white, .text-dark, .text-body (default body color/often black) and .text-light:",
+        "thumbnail": "https://i.postimg.cc/SKXFHpNC/html-structure.png"
+      }
+    },
     "published_date": "2022-10-25"
   },
   {
@@ -40,7 +116,33 @@
     "balance": "$137.52",
     "picture": "https://i.postimg.cc/SNCv4TnC/tailwindcss.png",
     "name": "Tailwind Css",
-    "description": "Do labore anim aute labore dolor excepteur ullamco. Adipisicing aute fugiat velit mollit. Id culpa laborum ea dolor voluptate proident excepteur.\r\n",
+    "description": {
+      "description_1": {
+        "title": "Get started with Tailwind CSS",
+        "paragraph": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime. "
+      },
+      "description_2": {
+        "title": "Utility-First Fundamentals",
+        "paragraph": "Building complex components from a constrained set of primitive utilities. Overview Traditionally, whenever you need to style something on the web, you write CSS. Using a traditional approach where custom designs require custom CSS",
+        "thumbnail": "https://i.postimg.cc/htZRCGgK/basic-structure-html.png"
+      },
+      "description_3": {
+        "title": "Handling Hover, Focus, and Other States",
+        "paragraph": "Using utilities to style elements on hover, focus, and more. Every utility class in Tailwind can be applied conditionally by adding a modifier to the beginning of the class name that describes the condition you want to target. For example, to apply the bg-sky-700 class on hover, use the hover:bg-sky-700 class: Hover over this button to see the background color change",
+        "thumbnail": "https://i.postimg.cc/jSSrQ7p8/element-html.png"
+
+      },
+      "description_4": {
+        "title": "Responsive Design",
+        "paragraph": "sing responsive utility variants to build adaptive user interfaces. Overview Every utility class in Tailwind can be applied conditionally at different breakpoints, which makes it a piece of cake to build complex responsive interfaces without ever leaving your HTML. There are five breakpoints by default, inspired by common device resolutions:",
+        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+      },
+      "description_5": {
+        "title": "Adding Custom Styles",
+        "paragraph": "Best practices for adding your own custom styles to Tailwind. Often the biggest challenge when working with a framework is figuring out what you’re supposed to do when there’s something you need that the framework doesn’t handle for you. Tailwind has been designed from the ground up to be extensible and customizable, so that no matter what you’re building you never feel like you’re fighting the framework. This guide covers topics like customizing your design tokens, how to break out of those constraints when necessary, adding your own custom CSS, and extending the framework with plugins.",
+        "thumbnail": "https://i.postimg.cc/SKXFHpNC/html-structure.png"
+      }
+    },
     "published_date": "2022-10-25"
   },
   {
@@ -51,7 +153,31 @@
     "balance": "$131.56",
     "picture": "https://i.postimg.cc/vmQ7pXnY/Java-Script.jpg",
     "name": "Javascript",
-    "description": "Consectetur aliquip in ea cupidatat laboris occaecat do dolor. Anim reprehenderit officia occaecat ut dolor ut proident pariatur duis. Occaecat exercitation enim do non duis. Officia non mollit aliquip et deserunt commodo velit aute fugiat anim. Pariatur irure id velit dolor deserunt. Aliquip sint veniam labore ex velit ea.\r\n",
+    "description": {
+      "description_1": {
+        "title": "What is JavaScript?",
+        "paragraph": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them. JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements. Core JavaScript can be extended for a variety of purposes by supplementing it with additional objects."
+      },
+      "description_2": {
+        "title": "Variable Declarations",
+        "paragraph": "JavaScript has three kinds of variable declarations. var, Declares a variable, optionally initializing it to a value. let,Declares a block-scoped, local variable, optionally initializing it to a value. const, Declares a block-scoped, read-only named constant.",
+        "thumbnail": "no image here"
+      },
+      "description_3": {
+        "title": "Array literals",
+        "paragraph": "An array literal is a list of zero or more expressions, each of which represents an array element, enclosed in square brackets ([]). When you create an array using an array literal, it is initialized with the specified values as its elements, and its length is set to the number of arguments specified. The following example creates the coffees array with three elements and a length of three: const coffees = ['French Roast', 'Colombian', 'Kona'];"
+      },
+      "description_4": {
+        "title": "Object literals",
+        "paragraph": "An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces ({}). The following is an example of an object literal. The first element of the car object defines a property, myCar, and assigns to it a new string, 'Saturn'; the second element, the getCar property, is immediately assigned the result of invoking the function (carTypes('Honda')); the third element, the special property, uses an existing variable (sales).",
+        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+      },
+      "description_5": {
+        "title": "Javascript Functions",
+        "paragraph": "Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.",
+        "thumbnail": "No thumbnail"
+      }
+    },
     "published_date": "2022-10-25"
   },
   {
@@ -62,7 +188,31 @@
     "balance": "$113.34",
     "picture": "https://i.postimg.cc/63vBNkFn/reactjs.png",
     "name": "React Js",
-    "description": "Laboris excepteur magna amet ad excepteur aute. Nulla enim quis deserunt veniam labore non consectetur dolore consequat. Laboris quis aliquip qui veniam exercitation elit ex ullamco cillum pariatur ut labore culpa elit. Est Lorem consectetur duis nulla cillum ipsum duis nostrud nulla aliqua amet. Ipsum mollit aliqua occaecat aliqua deserunt quis voluptate consequat Lorem. Et magna duis fugiat officia. Id proident excepteur aliquip sunt qui occaecat quis aliquip ex.\r\n",
+    "description": {
+      "description_1": {
+        "title": "What is ReactJs?",
+        "paragraph": "React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook. React is a tool for building UI components. "
+      },
+      "description_2": {
+        "title": "How does React Work?",
+        "paragraph": "React creates a VIRTUAL DOM in memory. Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM. React only changes what needs to be changed! React finds out what changes have been made, and changes only what needs to be changed. You will learn the various aspects of how React does this in the rest of this tutorial.",
+        "thumbnail": "no image here"
+      },
+      "description_3": {
+        "title": "React Directly in HTML",
+        "paragraph": "The quickest way start learning React is to write React directly in your HTML files. Start by including three scripts, the first two let us write React code in our JavaScripts, and the third, Babel, allows us to write JSX syntax and ES6 in older browsers. "
+      },
+      "description_4": {
+        "title": "Setting up a React Environment",
+        "paragraph": "If you have npx and Node.js installed, you can create a React application by using create-react-app. If you've previously installed create-react-app globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app. To uninstall, run this command: npm uninstall -g create-react-app. Run this command to create a React application named my-react-app",
+        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+      },
+      "description_5": {
+        "title": "Run the React Application",
+        "paragraph": "Now you are ready to run your first real React application! Run this command to move to the my-react-app directory: cd my-react-app. Run this command to run the React application my-react-app: npm start. A new browser window will pop up with your newly created React App! If not, open your browser and type localhost:3000 in the address bar. The result: ",
+        "thumbnail": "https://www.w3schools.com/react/screenshot_myfirstreact.png"
+      }
+    },
     "published_date": "2022-10-25"
   }
 ]
