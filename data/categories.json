@@ -1,21 +1,21 @@
 [
     {
     "id": "1",
-    "name": "Python"
+    "name": "HTML"
     },
     {
     "id": "2",
-    "name":"Javascript"},
+    "name":"Css"},
     {
     "id": "3",
-    "name":"C Programming"},
+    "name":"Bootstrap"},
     {
     "id": "4",
-    "name":"C++ Programming"},
+    "name":"Tailwind Css"},
     {
     "id": "5",
-    "name":"Java"},
+    "name":"Javascript"},
     {
     "id": "6",
-    "name":"PHP"}
+    "name":"React Js"}
 ]
