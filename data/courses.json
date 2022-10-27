@@ -46,7 +46,8 @@
     "description": [
       {
         "title": "What is CSS?",
-        "paragraph": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files"
+        "paragraph": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
+        "thumbnail" : "https://i.postimg.cc/kXTshFp2/css-sturcutre.png"
       },
       {
         "title": "CSS Demo - One HTML Page - Multiple Styles!",
@@ -55,13 +56,12 @@
       },
       {
         "title": "Why Use CSS?",
-        "paragraph": "CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.",
-        "thumbnail": "no image"
+        "paragraph": "CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes."
       },
       {
         "title": "CSS Syntax",
         "paragraph": "Example Explained. p is a selector in CSS (it points to the HTML element you want to style: <p>).. color is a property, and red is the property value. text-align is a property, and center is the property value.",
-        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+        "thumbnail": "https://i.postimg.cc/KvGQNsJX/css-syntax.png"
       },
       {
         "title": "The CSS element Selector",
@@ -119,27 +119,28 @@
     "description": [
       {
         "title": "Get started with Tailwind CSS",
-        "paragraph": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime. "
+        "paragraph": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable — with zero-runtime. ",
+        "thumbnail" : "https://i.postimg.cc/cCPxs5xF/tailwind-1.png"
       },
       {
         "title": "Utility-First Fundamentals",
         "paragraph": "Building complex components from a constrained set of primitive utilities. Overview Traditionally, whenever you need to style something on the web, you write CSS. Using a traditional approach where custom designs require custom CSS",
-        "thumbnail": "https://i.postimg.cc/htZRCGgK/basic-structure-html.png"
+        "thumbnail": "https://i.postimg.cc/BbjZfG08/tailwind-2.png"
       },
       {
         "title": "Handling Hover, Focus, and Other States",
         "paragraph": "Using utilities to style elements on hover, focus, and more. Every utility class in Tailwind can be applied conditionally by adding a modifier to the beginning of the class name that describes the condition you want to target. For example, to apply the bg-sky-700 class on hover, use the hover:bg-sky-700 class: Hover over this button to see the background color change",
-        "thumbnail": "https://i.postimg.cc/jSSrQ7p8/element-html.png"
+        "thumbnail": "https://i.postimg.cc/QNzxkVQc/tailwind-3.png"
       },
       {
         "title": "Responsive Design",
         "paragraph": "sing responsive utility variants to build adaptive user interfaces. Overview Every utility class in Tailwind can be applied conditionally at different breakpoints, which makes it a piece of cake to build complex responsive interfaces without ever leaving your HTML. There are five breakpoints by default, inspired by common device resolutions:",
-        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+        "thumbnail": "https://i.postimg.cc/85PPw6Xm/tailwind-4.png"
       },
       {
         "title": "Adding Custom Styles",
         "paragraph": "Best practices for adding your own custom styles to Tailwind. Often the biggest challenge when working with a framework is figuring out what you’re supposed to do when there’s something you need that the framework doesn’t handle for you. Tailwind has been designed from the ground up to be extensible and customizable, so that no matter what you’re building you never feel like you’re fighting the framework. This guide covers topics like customizing your design tokens, how to break out of those constraints when necessary, adding your own custom CSS, and extending the framework with plugins.",
-        "thumbnail": "https://i.postimg.cc/SKXFHpNC/html-structure.png"
+        "thumbnail": "https://i.postimg.cc/SNwRqjjm/tailwind-5.png"
       }
     ],
     "published_date": "2022-10-25"
@@ -169,12 +170,12 @@
       {
         "title": "Object literals",
         "paragraph": "An object literal is a list of zero or more pairs of property names and associated values of an object, enclosed in curly braces ({}). The following is an example of an object literal. The first element of the car object defines a property, myCar, and assigns to it a new string, 'Saturn'; the second element, the getCar property, is immediately assigned the result of invoking the function (carTypes('Honda')); the third element, the special property, uses an existing variable (sales).",
-        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+        "thumbnail": "https://i.postimg.cc/FH3RKmJ3/javascript-obj.png"
       },
       {
         "title": "Javascript Functions",
         "paragraph": "Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.",
-        "thumbnail": "No thumbnail"
+        "thumbnail": "https://i.postimg.cc/9F40vymx/javascript-func.png"
       }
     ],
     "published_date": "2022-10-25"
@@ -190,7 +191,8 @@
     "description": [
       {
         "title": "What is ReactJs?",
-        "paragraph": "React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook. React is a tool for building UI components. "
+        "paragraph": "React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook. React is a tool for building UI components. ",
+        "thumbnail" : "https://i.postimg.cc/ydQ6G8w4/react-1.png"
       },
       {
         "title": "How does React Work?",
