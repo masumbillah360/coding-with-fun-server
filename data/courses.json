@@ -156,16 +156,18 @@
     "description": [
       {
         "title": "What is JavaScript?",
-        "paragraph": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them. JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements. Core JavaScript can be extended for a variety of purposes by supplementing it with additional objects."
+        "paragraph": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them. JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements. Core JavaScript can be extended for a variety of purposes by supplementing it with additional objects.",
+        "thumbnail": "https://i.postimg.cc/9F77xzc3/javascript-1.jpg"
       },
       {
         "title": "Variable Declarations",
         "paragraph": "JavaScript has three kinds of variable declarations. var, Declares a variable, optionally initializing it to a value. let,Declares a block-scoped, local variable, optionally initializing it to a value. const, Declares a block-scoped, read-only named constant.",
-        "thumbnail": "no image here"
+        "thumbnail": "https://i.postimg.cc/nhfQNZLX/javascript-variable.png"
       },
       {
         "title": "Array literals",
-        "paragraph": "An array literal is a list of zero or more expressions, each of which represents an array element, enclosed in square brackets ([]). When you create an array using an array literal, it is initialized with the specified values as its elements, and its length is set to the number of arguments specified. The following example creates the coffees array with three elements and a length of three: const coffees = ['French Roast', 'Colombian', 'Kona'];"
+        "paragraph": "An array literal is a list of zero or more expressions, each of which represents an array element, enclosed in square brackets ([]). When you create an array using an array literal, it is initialized with the specified values as its elements, and its length is set to the number of arguments specified. The following example creates the coffees array with three elements and a length of three: const coffees = ['French Roast', 'Colombian', 'Kona'];",
+        "thumbnail": "https://i.postimg.cc/L47PBjKB/javascript-array.png"
       },
       {
         "title": "Object literals",
