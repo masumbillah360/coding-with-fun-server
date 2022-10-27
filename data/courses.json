@@ -51,7 +51,7 @@
       {
         "title": "CSS Demo - One HTML Page - Multiple Styles!",
         "paragraph": "Here we will show one HTML page displayed with four different stylesheets. Click on the 'Stylesheet 1', 'Stylesheet 2', 'Stylesheet 3', 'Stylesheet 4' links below to see the different styles:",
-        "thumbnail": "no image here"
+        "thumbnail": "https://i.postimg.cc/tTjHc5V0/css-demo.png"
       },
       {
         "title": "Why Use CSS?",
@@ -82,27 +82,28 @@
     "description": [
       {
         "title": "What is Bootstrap?",
-        "paragraph": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs. What is Responsive Web Design?. Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops."
+        "paragraph": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs. What is Responsive Web Design?. Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.",
+        "thumbnail": "https://i.postimg.cc/m2DWKhhr/bootstrap-1.png"
       },
       {
         "title": "Why Use Bootstrap?",
         "paragraph": "Advantages of Bootstrap:. Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap. Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops. Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework. Browser compatibility: Bootstrap 5 is compatible with all modern browsers (Chrome, Firefox, Edge, Safari, and Opera). Note that if you need support for IE11 and down, you must use either BS4 or BS3.",
-        "thumbnail": "https://i.postimg.cc/htZRCGgK/basic-structure-html.png"
+        "thumbnail": "https://i.postimg.cc/nVTtdqF5/bootstrap-2.png"
       },
       {
         "title": "Two Basic Bootstrap 5 Pages",
         "paragraph": "ou can also use the .container-sm|md|lg|xl classes to determine when the container should be responsive. The max-width of the container will change on different screen sizes/viewports:",
-        "thumbnail": "https://i.postimg.cc/jSSrQ7p8/element-html.png"
+        "thumbnail": "https://i.postimg.cc/SsfpbMWn/bootstrap-3.png"
       },
       {
         "title": "Responsive Containers",
         "paragraph": "The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly. A browser does not display the HTML tags, but uses them to determine how to display the document",
-        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+        "thumbnail": "https://i.postimg.cc/0jtRb1Xx/bootstrap-4.png"
       },
       {
         "title": "Text Colors",
         "paragraph": "Bootstrap 5 has some contextual classes that can be used to provide 'meaning through colors'. The classes for text colors are: .text-muted, .text-primary, .text-success, .text-info, .text-warning, .text-danger, .text-secondary, .text-white, .text-dark, .text-body (default body color/often black) and .text-light:",
-        "thumbnail": "https://i.postimg.cc/SKXFHpNC/html-structure.png"
+        "thumbnail": "https://i.postimg.cc/fbXN5Fyj/bootstrap-5.png"
       }
     ],
     "published_date": "2022-10-25"
