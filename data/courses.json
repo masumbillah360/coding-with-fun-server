@@ -199,16 +199,17 @@
       {
         "title": "How does React Work?",
         "paragraph": "React creates a VIRTUAL DOM in memory. Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM. React only changes what needs to be changed! React finds out what changes have been made, and changes only what needs to be changed. You will learn the various aspects of how React does this in the rest of this tutorial.",
-        "thumbnail": "no image here"
+        "thumbnail": "https://i.postimg.cc/1tPpNqTc/react-work.png"
       },
       {
         "title": "React Directly in HTML",
-        "paragraph": "The quickest way start learning React is to write React directly in your HTML files. Start by including three scripts, the first two let us write React code in our JavaScripts, and the third, Babel, allows us to write JSX syntax and ES6 in older browsers. "
+        "paragraph": "The quickest way start learning React is to write React directly in your HTML files. Start by including three scripts, the first two let us write React code in our JavaScripts, and the third, Babel, allows us to write JSX syntax and ES6 in older browsers. ",
+        "thumbnail": "https://i.postimg.cc/ydQ6G8w4/react-1.png"
       },
       {
         "title": "Setting up a React Environment",
         "paragraph": "If you have npx and Node.js installed, you can create a React application by using create-react-app. If you've previously installed create-react-app globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app. To uninstall, run this command: npm uninstall -g create-react-app. Run this command to create a React application named my-react-app",
-        "thumbnail": "https://www.w3schools.com/html/img_chrome.png"
+        "thumbnail": "https://i.postimg.cc/kgs9m3CJ/react-env.jpg"
       },
       {
         "title": "Run the React Application",
